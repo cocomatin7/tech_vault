@@ -1,0 +1,91 @@
+﻿#EXTM3U
+#EXTINF:-1,ZEE Cinema HD
+http://z5ams.akamaized.net:80/zcinemahd/tracks-v1a1/exp=1566155964~acl=%2f*~data=hdntl~hmac=7c4dc45544c896a254609b66db80d2c47227c2820e968af14b70e728e421831b/mono.m3u8
+#EXTINF:-1,HBO3
+http://95.170.215.118:80/hls/m3u8/HBO-3.m3u8
+#EXTINF:-1,And Flix HD
+http://z5ams.akamaized.net:80/andflixhd/tracks-v1a1/exp=1566200784~acl=%2f*~data=hdntl~hmac=cd4244718cc468e3b574105f94b89054d9cb39fc066052f34f10b26c2caedcad/mono.m3u8
+#EXTINF:-1,Zee Cafe HD
+http://z5ams.akamaized.net:80/zeecafehd/tracks-v1a1/exp=1566200773~acl=%2f*~data=hdntl~hmac=c5d1bd33442de470406a70dfe4106ae9a7db97abb301c731f005b35462fba069/mono.m3u8
+#EXTINF:-1,And Prive HD
+http://z5ams.akamaized.net:80/andprivehd/tracks-v1a1/exp=1566200745~acl=%2f*~data=hdntl~hmac=746d953124d121ba77e2c3c256e3ecde009895018410769e4b1865039606d674/mono.m3u8
+#EXTINF:-1,Zee World
+http://z5ams.akamaized.net:80/world/tracks-v1a1/exp=1566200716~acl=%2f*~data=hdntl~hmac=9d59f53eb7b5d26dc40275ce9b2a55a7fa45ab88cb68e761b7979f8789dc625d/mono.m3u8
+#EXTINF:-1,Zee 24Taas
+http://z5ams.akamaized.net:80/24taas/tracks-v1a1/exp=1566200693~acl=%2f*~data=hdntl~hmac=8dcb0cca9d825c798e0f27752db9e6f92c9067d0f3321699493948abbdb79317/mono.m3u8
+#EXTINF:-1,Zee world
+http://z5ams.akamaized.net:80/world/tracks-v3a1/exp=1566200716~acl=%2f*~data=hdntl~hmac=9d59f53eb7b5d26dc40275ce9b2a55a7fa45ab88cb68e761b7979f8789dc625d/mono.m3u8
+#EXTINF:-1,Zee Marathi SD
+http://z5ams.akamaized.net:80/zmarathisd/tracks-v4a1/exp=1566200639~acl=%2f*~data=hdntl~hmac=1d9aeb89662e60a1b3c948064fd33f60d8094d1d28f1ad339a324946e59dcbbd/mono.m3u8
+#EXTINF:-1,Zee Classic
+http://z5ams.akamaized.net:80/classic/tracks-v1a1/exp=1566200668~acl=%2f*~data=hdntl~hmac=d20389df5c8683feae797a903e1703b5ae915a181bfac79fe0b7ea719f6bfcb0/mono.m3u8
+#EXTINF:-1,Zee Marathi HD
+http://z5ams.akamaized.net:80/zmarathihd/tracks-v1a1/exp=1566200619~acl=%2f*~data=hdntl~hmac=f167ef5a808060d1fbc5d40ded2e57b1a458b9f8cbc371401b760cf30540a1d7/mono.m3u8
+#EXTINF:-1,Zee Yuva
+http://z5ams.akamaized.net:80/zyuva/tracks-v1a1/exp=1566200574~acl=%2f*~data=hdntl~hmac=f65637d6e40ddc0bc5a73d50132bea6496e0670d69d0c662733a487499bfceaa/mono.m3u8
+#EXTINF:-1,Sanskar
+http://z5ams.akamaized.net:80/sanskartv/tracks-v1a1/exp=1566200598~acl=%2f*~data=hdntl~hmac=ac8e2d1cf9e5703f677cabe9f64809a6e5bebda4ec7f68fb92760793e97f6c2a/mono.m3u8
+Zee ETC
+http://z5ams.akamaized.net:80/etc/tracks-v1a1/exp=1566200558~acl=%2f*~data=hdntl~hmac=a0a0ba73d1febb9d8b939d0db0965bc27f18d3f528976bd5a5501319bce2a130/mono.m3u8
+#EXTINF:-1,Zee News
+http://z5ams.akamaized.net:80/zeenews/tracks-v1a1/exp=1566200512~acl=%2f*~data=hdntl~hmac=1fef63fcccdcf1f5df6db2b88dff44859d2662a83934b4e7548dc08e9b357111/mono.m3u8
+#EXTINF:-1,Zee Business
+http://z5ams.akamaized.net:80/zeebusiness/tracks-v1a1/exp=1566200489~acl=%2f*~data=hdntl~hmac=fcaaf09a3fff6b2b663de7b9a1bc14e2c4ff1a7b1117397cf1db178349ef2f29/mono.m3u8
+#EXTINF:-1,Living Foodz
+http://z5ams.akamaized.net:80/livingfoodz/tracks-v1a1/exp=1566200467~acl=%2f*~data=hdntl~hmac=69a9f6dc3340c390b772324f6cdd56515f0d433740d95d07cffd2133af018bfc/mono.m3u8
+#EXTINF:-1,And Pictures HD
+http://z5ams.akamaized.net:80/andpicshd/tracks-v1a1/exp=1566200440~acl=%2f*~data=hdntl~hmac=507ee4e17629356e91c962c71d66183b7fc8d5445e49df097df60b2962a03f51/mono.m3u8
+#EXTINF:-1,Zee TV HD
+http://z5ams.akamaized.net:80/zeetvhd/tracks-v1a1/exp=1566200371~acl=%2f*~data=hdntl~hmac=ba20a9b66aec4526af2642c34aee24705eaab919bdb4a83cb6df12d8cfb859be/mono.m3u8
+#EXTINF:-1,9XM
+http://z5ams.akamaized.net:80/9xm/tracks-v1a1/exp=1566200406~acl=%2f*~data=hdntl~hmac=35caf5c888fd97224f93628816439d005ccdc714791bf5264697e03d6e1de18b/mono.m3u8
+#EXTINF:-1,Zing
+http://z5ams.akamaized.net:80/zing/tracks-v4a1/exp=1566200422~acl=%2f*~data=hdntl~hmac=400585e788a5abc6a266b1fd9340b6dd81d6f07cf1bb6654b9a5471fcc039164/mono.m3u8
+#EXTINF:-1,And TV HD
+http://z5ams.akamaized.net:80/andtvhd/tracks-v1a1/exp=1566200342~acl=%2f*~data=hdntl~hmac=83311c8b049035482466cdebacfad0378ebf48a2f32d4184cdfc92c3fb6e44fe/mono.m3u8
+#EXTINF:-1,Zee Action
+http://z5ams.akamaized.net:80/action/tracks-v3a1/exp=1566200320~acl=%2f*~data=hdntl~hmac=39ae4b6abde48979cec228a8b14b7ca7dcdc73585693ba3d1609fa72c7a655a1/mono.m3u8
+#EXTINF:-1,Saam TV
+http://8ovgdkm5rmpw-hls-live.wmncdn.net/31/saam/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,New 18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1,ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531-b/abpmajha/masterhls_1564.m3u8
+#EXTINF:-1,Sony HD ATV
+http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8
+#EXTINF:-1,Sab HD ATV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8
+#EXTINF:-1,Zee TV HD ATV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1,And TV HD ATV
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226084/05.m3u8
+#EXTINF:-1,Sony Max HD ATV
+http://cshms2.airtel.tv/PLTV/88888888/224/3221225776/05.m3u8
+#EXTINF:-1,Sony Max 2 ATV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1,Zee Bollywood ATV
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
+#EXTINF:-1,B4U Movies ATV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:-1,Food Food ATV
+http://cshms1.airtel.tv:80/PLTV/88888888/224/3221225836/index.m3u8
+#EXTINF:-1,Travel XP Hindi ATV
+http://mhms10.airtel.tv:80/PLTV/88888888/224/3221226495/index.m3u8
+#EXTINF:-1,NDTV India ATV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225777/index.m3u8
+#EXTINF:-1,India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:-1,Zoom ATV
+http://mhms11.airtel.tv/PLTV/88888888/224/3221226569/index.m3u8
+#EXTINF:-1,B4U Music ATV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226055/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD ATV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/03.m3u8
+#EXTINF:-1,Sony Ten 2 HD ATV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1,ESPN HD ATV
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1,Zee Talkies ATV
+http://cshms1.airtel.tv/PLTV/88888888/224/3221225921/index.m3u8
+#EXTINF:-1,Fakt Marathi ATV
+http://mhms6.airtel.tv/PLTV/88888888/224/3221226305/index.m3u8
