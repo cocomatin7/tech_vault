@@ -81,9 +81,8 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 group-title="News",Aaj Tak
 
 #EXTINF:-1 group-title="News",NDTV India
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1 group-title="News",India TV
-
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1 group-title="News",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 group-title="News",Loksabha TV
@@ -111,7 +110,6 @@ http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
 http://89.38.97.48:8080/TV1953
 #EXTINF:-1 group-title="Infotainment",Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-
 #EXTINF:-1 group-title="English",&Prive HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 #EXTINF:-1 group-title="English",&Flix HD
@@ -131,6 +129,9 @@ http://89.38.97.48:8080/TV1914
 #EXTINF:-1 group-title="Sports",Sony Ten 1 HD
 http://89.38.97.48:8080/TV1946
 #EXTINF:-1 group-title="Sports",Sony Ten 2 HD
+https://akamai.anytv.live/SonyTen2HD/index.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 2 SD
+http://163.172.85.133:8080/TenS/2/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports Select 1 HD
