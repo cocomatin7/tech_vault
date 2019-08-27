@@ -12,7 +12,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zyuva
 #EXTINF:-1 group-title="Marathi",Fakt Marathi
 
 #EXTINF:-1 group-title="Marathi",Zee Talkies HD
-
+http://pockettv.xyz/api/zee.m3u8?c=ztalkieshd
 #EXTINF:-1 group-title="Marathi",Saam TV
 http://8ovgdkm5rmpw-hls-live.wmncdn.net/31/saam/live.stream/tracks-v1a1/index.m3u8 
 #EXTINF:-1 group-title="Marathi",Zee 24 Taas
@@ -81,13 +81,13 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 group-title="News",Aaj Tak
 
 #EXTINF:-1 group-title="News",NDTV India
-
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1 group-title="News",India TV
 
 #EXTINF:-1 group-title="News",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 group-title="News",Loksabha TV
-
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 group-title="Kids",Cartoon Network
 #EXTINF:-1 group-title="Kids",Pogo
 #EXTINF:-1 group-title="Kids",Nick
