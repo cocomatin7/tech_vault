@@ -45,7 +45,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 #EXTINF:-1 group-title="Hindi",And Pictures HD
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 #EXTINF:-1 group-title="Hindi",Sony Max HD
-
+https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1 group-title="Hindi",Star Gold HD
 
 #EXTINF:-1 group-title="Hindi",Star Gold Select HD
