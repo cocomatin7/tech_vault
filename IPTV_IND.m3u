@@ -81,6 +81,7 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 group-title="News",Aaj Tak
 
 #EXTINF:-1 group-title="News",NDTV India
+https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8?hdnea=st=1547708459~exp=1547709059~acl=!*/20/preview/ndtvhindi/*!/payload/yuppTVCom_5_-1_dd147aac8a9d42a0_US_66.96.183.59/*~hmac=5eb08af0dfd7e831143dbadcbf290c85befcf8d4389a30452fc91ef693aee9c1
 #EXTINF:-1 group-title="News",India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1 group-title="News",CNBC Awaaz
