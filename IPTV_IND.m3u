@@ -61,9 +61,12 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 #EXTINF:-1 group-title="Hindi",Bflix Movies
 http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
 #EXTINF:-1 group-title="Music",MTV HD
+http://jprdigitalott.com:80/media/MTVHD.mpd
+#EXTINF:-1 group-title="Music",MTV HD
+http://jprdigitalott.com:80/media/a15301_init.mp4
 #EXTINF:-1 group-title="Music",MTV Beats HD
 #EXTINF:-1 group-title="Music",Sony Mix
-
+http://jprdigitalott.com:80/media/h15301p3_init.mp4
 #EXTINF:-1 group-title="Music",Zee ETC
 http://pockettv.xyz/api/zee.m3u8?c=etc
 #EXTINF:-1 group-title="Music",9XM
