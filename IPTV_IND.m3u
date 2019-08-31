@@ -65,7 +65,10 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 
 #EXTINF:-1 group-title="Hindi",Bflix Movies
 http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
-#EXTINF:-1 group-title="Music",MTV HD
+
+#EXTINF:-1 group-title="Hindi",MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1 group-title="Music",MTV 
 http://jprdigitalott.com/media/MTVHD.mpd
 #EXTINF:-1 group-title="Music",MTV HD
 http://jprdigitalott.com/media/a15301_80390.m4s
@@ -136,6 +139,8 @@ http://89.38.97.48:8080/TV1944
 http://89.38.97.48:8080/TV1943
 #EXTINF:-1 group-title="English",MN Plus HD
 http://89.38.97.48:8080/TV1940
+#EXTINF:-1 group-title="English",HBO2 HD
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 3 HD
 
 #EXTINF:-1 group-title="Sports",Sony Ten 3
