@@ -33,7 +33,7 @@ https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi",Star Bharat HD
 http://mhdtvworld.com/delta/hotstar/hotplustv.php?c=starbharat&e=.m3u8
 #EXTINF:-1 group-title="Hindi",Star Bharat HD
-http://mhdtvworld.com/delta/hotstar/streamh.php?c=starbharat&ts=master_800_1388400.ts
+http://mhdtvworld.com/delta/hotstar/streamh.php?c=starbharat&ts=master_800_1388400.m3u8
 #EXTINF:-1 group-title="Hindi",&TV HD
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 #EXTINF:-1 group-title="Hindi",Sony HD
