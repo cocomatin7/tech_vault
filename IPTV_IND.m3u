@@ -28,7 +28,7 @@ https://abp-i.akamaihd.net/hls/live/765531-b/abpmajha/masterhls_1564.m3u8
 
 #EXTINF:-1 group-title="Hindi",Zee TV HD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
-#EXTINF:-1 group-title="Hindi",Star EXTINF:-1 group-title="Hindi",Star Plus HDDPlus HD
+#EXTINF:-1 group-title="Hindi",Star 
 http://130.185.150.79:1935/trunk/STAR-PLUS/playlist.m3u8
 #EXTINF:-1 group-title="Hindi",Star Plus HD
 http://redflixtv.online/uploads.php?link=28e229ef395bf6bd7f9087cb5838093b&token=687474703a2f2f3133302e3138352e3135302e37393a313933352f7472756e6b2f535441522d504c55532f706c61796c6973742e6d337538
