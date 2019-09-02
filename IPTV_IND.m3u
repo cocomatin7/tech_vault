@@ -46,6 +46,8 @@ http://144.217.70.223:8080/SONYTVHDIND-Hin/index.m3u8
 http://130.185.150.79:1935/trunk/SONY-HD/playlist.m3u8
 #EXTINF:-1 group-title="Hindi",Sony SAB HD
 http://voxtv.dynns.com:8000/sunny/sunny/502
+#EXTINF:-1 group-title="Hindi",Sony SAB HD
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1 group-title="Hindi",Colors HD
 http://voxtv.dynns.com:8000/movies/movies/122
 
