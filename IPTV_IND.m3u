@@ -112,8 +112,8 @@ https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8?hdnea=st=154770
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1 group-title="News",India TV
 http://zer0live.ddns.net:13292/neptune/indiatvnews/chunks.m3u8?nimblesessionid=537206&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDE5IDg6MTA6NTEgQU0maGFzaF92YWx1ZT1QQmpRNDFUQ2xKcDVpbXk1Q2s2OFVnPT0mdmFsaWRtaW51dGVzPTI= HTTP/1.1
-
-
+#EXTINF:-1 group-title="News",Aaj Tak
+http://gdcsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_100.m3u8
 
 
 #EXTINF:-1 group-title="News",CNBC Awaaz
