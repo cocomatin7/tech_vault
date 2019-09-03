@@ -113,7 +113,8 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV
 #EXTINF:-1 group-title="News",India TV
 http://zer0live.ddns.net:13292/neptune/indiatvnews/chunks.m3u8?nimblesessionid=537206&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDE5IDg6MTA6NTEgQU0maGFzaF92YWx1ZT1QQmpRNDFUQ2xKcDVpbXk1Q2s2OFVnPT0mdmFsaWRtaW51dGVzPTI= HTTP/1.1
 #EXTINF:-1 group-title="News",Aaj Tak
-http://gdcsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_100.m3u8?jct=63AMhL17WjFdw-v05QcxFg&pxe=1567430874&st=zbACGx1ZS6y_hEEGqGWcSg|user-agent="plaYtv/5.7.2 (Linux;Android 9) ExoPlayerLib/2.8.0"
+http://gdcsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_100.m3u8?jct=63AMhL17WjFdw-v05QcxFg&pxe=1567430874&st=zbACGx1ZS6y_hEEGqGWcSg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1 group-title="Hindi",Colors HD
 
 
 #EXTINF:-1 group-title="News",CNBC Awaaz
