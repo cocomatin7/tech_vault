@@ -293,6 +293,8 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV18/FYI_TV18_600.m3u8?
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Star Sports 1
 http://jprdigitalott.com/media/StarSports1HindiHD.mpd
 
+#EXTINF:-1 tvg-id="SONY TEN" tvg-logo="noimage.png" group-title="Sports", Sony Ten 3 HD
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD_400.m3u8?jct=kPeYq1ygChM35JTtTg_zCA&pxe=1567696782&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony Ten2 HD
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Ten2_HD/Ten2_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
