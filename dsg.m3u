@@ -446,3 +446,5 @@ http://pockettv.xyz/api/zee.m3u8?c=ztvme
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Worldwide", Zee TV Asia/Pacific
 http://pockettv.xyz/api/zee.m3u8?c=apacsea
 
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Worldwide", Star Movies HD
+http://jprdigitalott.com/media/StarMoviesHD.mpd
