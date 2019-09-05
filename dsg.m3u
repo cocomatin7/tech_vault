@@ -451,3 +451,7 @@ http://pockettv.xyz/api/zee.m3u8?c=apacsea
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Worldwide", Star Movies HD
 http://jprdigitalott.com/media/StarMoviesHD.mpd
+
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Worldwide", Discovery Hindi D
+http://jprdigitalott.com/media/DiscoveryTVHD.mpd
