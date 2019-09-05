@@ -291,7 +291,7 @@ http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV18/FYI_TV18_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Star Sports 1
-http://smumcdnems01.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetvwv/master.mpd?hdnea=st=1567600968~exp=1567604568~acl=/*~hmac=a01a0008411c1e1c589f6df02faf77d153f86b00eadd8e98d0c08bca3ade9b56
+http://jprdigitalott.com/media/StarSports1HindiHD.mpd?hdnts=st=1567689942~exp=1567690942~acl=/*~hmac=cd22477cc715bec381ddde6006951736b5691a2fcd111362c8a31ca34696532f
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony Ten2 HD
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Ten2_HD/Ten2_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
