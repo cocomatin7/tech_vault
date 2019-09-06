@@ -122,8 +122,9 @@ http://starpravah-i.akamaihd.net/hls/live/569921/starpravah/master_2000.m3u8
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi", Zee Yuva
 http://pockettv.xyz/api/zee.m3u8?c=zyuva
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi", Zee Talkies JTV HD
-http://ngprite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi", Zee Talkies JTV
+
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_1200.m3u8?jct=y3Ktp1fEUlCwzdF4y8lQTQ&pxe=1567749001&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/05/fakte-marathi-logo-2.jpg" group-title="Marathi", Fakt Marathi JTV HQ
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
