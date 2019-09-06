@@ -293,7 +293,7 @@ http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
 #EXTINF:-1 tvg-id="Living Foodz HD" tvg-logo="noimage.png" group-title="Infotainment", FYI TV 18 JTV HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV18/FYI_TV18_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Star Sports 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagecdn.googleapis.store/SwiftPanel/images/27689_starsports1hindi.jpg" group-title="Sports", Star Sports 1 Hindi HD
 http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Star Sports Select 1 HD
