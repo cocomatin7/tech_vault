@@ -1,0 +1,475 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Hindi Entertainment", Sony HD
+http://144.217.70.223:8080/SONYTVHDIND-Hin/index.m3u8
+
+#EXTINF:-1 tvg-id="SET  HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Hindi Entertainment", Sony HD JTV
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Hindi Entertainment", Zee TV HD JTV
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Hindi Entertainment", Zee TV HD
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Hindi Entertainment", Sony SAB HD
+http://voxtv.dynns.com:8000/sunny/sunny/502
+
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Hindi Entertainment", Sony SAB HD JTV
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Colors HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Hindi Entertainment", Colors HD JTV
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Andtv HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Hindi Entertainment", And TV HD JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_TV_HD/And_TV_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Andtv HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Hindi Entertainment", &TV HD
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Hindi Entertainment", Star Plus HD
+http://130.185.150.79:1935/trunk/STAR-PLUS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Hindi Entertainment", Star Plus HS HD
+http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Hindi Entertainment", Star Bharat HS HD
+http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+#EXTINF:-1 tvg-id="EPIC" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Hindi Entertainment", Epic JTV
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Epic_HD/Epic_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Hindi Entertainment", Epic Channel HD
+https://sony247channels.akamaized.net/hls/live/2002594/Epicchannel/master_2128.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_HD.png" group-title="Hindi Entertainment", Star Utsav HS HD
+http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+#EXTINF:-1 tvg-id="Sony Pal" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Hindi Entertainment", Sony Pal JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pal/Sony_Pal_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Z Anmol" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Hindi Entertainment", Zee Anmol JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Anmol/Zee_Anmol_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Arre" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="Hindi Entertainment", Arre JTV HD
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Arre/Arre_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Hindi Entertainment", DD Bharati
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_bharati/DD_bharati_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Hindi Entertainment", DD National
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_National/DD_National_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="Hindi Entertainment", DD News
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_News/DD_News_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi Movies", Sony Max HD JTV
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagecdn.googleapis.store/SwiftPanel/images/75142_60628_stargoldselect.jpg" group-title="Hindi Movies", Star Gold Select HD
+http://jprdigitalott.com/media/StarGoldSelectHD.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi Movies", Sony Max HD
+http://jprdigitalott.com/media/SonyMaxHD.mpd?hdnts=st=1568110611~exp=1568111611~acl=/*~hmac=658e25a1696879f73d9465eca626fe6c6a102ef64a9599cb788002abcafd6adc|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Movies", Zee Cinema HD JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Movies", Zee Cinema HD
+http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+
+#EXTINF:-1 tvg-id="And Pictures HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", And Pictures HD JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", And Pictures HD
+http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="Hindi Movies", Star Gold HD
+http://voxtv.dynns.com:8000/movies/movies/191
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="Hindi Movies", Star Gold HS HD
+http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+#EXTINF:-1 tvg-id="EROSNOW_Hindi_Premium" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png" group-title="Hindi Movies", Jio Bollywood Premium HD
+http://gdcsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium.m3u8?jct=e-b5hBbDDwCcHcKxOfZ_Fg&pxe=1567870759&st=X0cGJaQKHeiXL1f02xSNRg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Movies OK" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK_SD.png" group-title="Hindi Movies", Movies OK HS HD
+http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+#EXTINF:-1 tvg-id="SONY  MAX 2" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Hindi Movies", Sony Max 2 JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_MAX2/Sony_MAX2_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Zee Action" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Hindi Movies", Zee Action JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Action/Zee_Action_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Zee Action" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Hindi Movies", Zee Action
+http://pockettv.xyz/api/zee.m3u8?c=action
+
+#EXTINF:-1 tvg-id="Zee Bollywood" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Hindi Movies", Zee Bollywood JTV HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Classic/Zee_Classic_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Zee Bollywood" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Hindi Movies", Zee Bollywood
+http://pockettv.xyz/api/zee.m3u8?c=classic
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagecdn.googleapis.store/SwiftPanel/images/34185_50545_mbcbolly.jpg" group-title="Hindi Movies", MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Hindi Movies", B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://d3ejb73pptsk07.cloudfront.net/upload/Bflix.png" group-title="Hindi Movies", Bflix Movies
+http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Colors Cineplex" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Hindi Movies", Rishtey Cineplex JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Enterr10" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Hindi Movies", Enterr10 JTV
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Enterr_10/Enterr_10_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Hindi Movies", Maha Movies JTV
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Maha_Movies/Maha_Movies_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Marathi", Zee Marathi JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Marathi", Zee Marathi HD
+http://pockettv.xyz/api/zee.m3u8?c=zmarathihd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Marathi", Colors Marathi HD JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi", Sony Marathi JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png" group-title="Marathi", Star Pravah HS
+http://starpravah-i.akamaihd.net/hls/live/569921/starpravah/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="Marathi", Zee Yuva JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Yuva/Zee_Yuva_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi", Zee Talkies HD
+http://pockettv.xyz/api/zee.m3u8?c=ztalkieshd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi", Zee Talkies JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_600.m3u8?jct=y3Ktp1fEUlCwzdF4y8lQTQ&pxe=1567749001&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/05/fakte-marathi-logo-2.jpg" group-title="Marathi", Fakt Marathi JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="Marathi", Zee 24 Taas
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/abc01903b7d54dafba8e3a58bccff842_1280X720.png" group-title="Marathi", News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="Marathi", Saam TV JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="Marathi", ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531-b/abpmajha/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="Marathi", ABP Majha JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="Marathi", TV9 Maharashtra JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png" group-title="Marathi", BBC Marathi JTV
+http://jiocgehub.jio.ril.com/BBC_Marathi/BBC_Marathi.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" group-title="Marathi", MK News
+http://smumcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MK_News/MK_News.m3u8?jct=5hmvIg2spn-u_TJb6wpnUA&pxe=1567602714&st=zbACGx1ZS6y_hEEGqGWcSg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/LordShri_Vitthal.png" group-title="Marathi", Lord Shree Vitthal
+http://smumcdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/LordShri_Vitthal/LordShri_Vitthal.m3u8?jct=Pubw5d7zi338hjl7dS6yHw&pxe=1567602744&st=zbACGx1ZS6y_hEEGqGWcSg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Siddhivinayak.png" group-title="Marathi", Siddhivinayak
+http://jiocgwhub.jio.ril.com/Siddhivinayak/Siddhivinayak.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dagdusheth_Pune.png" group-title="Marathi", Dagadusheth Pune
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Dagdusheth_Pune/Dagdusheth_Pune.m3u8?jct=7G-6n4fyjOLBsaTvvzL4xg&pxe=1567602751&st=zbACGx1ZS6y_hEEGqGWcSg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rangamanch.png" group-title="Marathi", Rangamanch JTV HQ
+http://jiocgehub.jio.ril.com/Rangamanch/Rangamanch_600.m3u8|user-agent="AppleWebKit/JioTV/537.36"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://oklivetv.com/wp-content/uploads/media/9a7f137cdd45a8c529b546673b43a401.jpeg" group-title="Marathi", 9X Jhakaas JTV HQ
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9x_Jhakaas/9x_Jhakaas_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="Marathi", DD Sahyadri JTV HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Sahayadri/DD_Sahayadri_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.mxmindia.com/wp-content/uploads/2013/08/Maiboli.jpg" group-title="Marathi", Maiboli HTV HQ
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maharashtra1.png" group-title="Marathi", Maharashtra 1
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd4/Maharashtra1_HLS/Maharashtra1_HD_M_400.m3u8?jct=1QtRl0TlS7xF9wdZuHFm-g&pxe=1567602738&st=zbACGx1ZS6y_hEEGqGWcSg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="ABP News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="Hindi News", ABP News JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_News_India/ABP_News_India_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="ABP News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/ABPNews_2016.jpg" group-title="Hindi News", ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-id="Zee News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="Hindi News", Zee News JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_News/Zee_News_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Zee News" tvg-logo="https://seeklogo.com/images/Z/zee-news-logo-DA42E27EC5-seeklogo.com.png" group-title="Hindi News", Zee News
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
+
+#EXTINF:-1 tvg-id="Aaj Tak" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="Hindi News", AajTak JTV
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Aaj Tak HD" tvg-logo="http://files.bdhsbbsr.com/uploads/item/7419.png" group-title="Hindi News",  AajTak HD
+http://jprdigitalott.com/media/AajTakHD.mpd
+
+#EXTINF:-1 tvg-id="India TV" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="Hindi News", India TV JTV
+http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/India_TV/India_TV_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="India TV" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="Hindi News", India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+
+#EXTINF:-1 tvg-id="ABP News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Hindi News", CNBC Awaaz JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNBC_Awaaz/CNBC_Awaaz_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="CNBC Awaaz" tvg-logo="https://banner2.kisspng.com/20180716/sfk/kisspng-cnbc-awaaz-logo-of-nbc-india-television-channel-5b4d283db7fae1.7249822215317832297536.jpg" group-title="Hindi News", CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Zee News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Hindi News", Zee Business JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Business/Zee_Business_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Zee Business" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Hindi News", Zee Business
+http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599025s.png" group-title="Hindi News", Tez News
+https://sony247channels.akamaized.net/hls/live/2002594/AAJTAKTEZ/master_2128.m3u8
+
+#EXTINF:-1 tvg-id="Loksabha TV" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="Hindi News", Lok Sabha JTV
+http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Loksabha_TV/Loksabha_TV_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="DD Rajyasabha" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="Hindi News", DD Rajya Sabha JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Rajyasabha/DD_Rajyasabha_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="DD Rajyasabha" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="Hindi News", DD Rajya Sabha JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Rajyasabha/DD_Rajyasabha_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="Hindi News", NDTV INDIA JTV
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/NDTV_India/NDTV_India_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="News 18 India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="Hindi News", News 18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment", Discovery Hindi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Hindi/Discovery_Channel_Hindi.m3u8?jct=mWet0EGpkmi55EoY5FOkug&pxe=1567595991&st=zbACGx1ZS6y_hEEGqGWcSg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment", Discovery Hindi HD
+http://jprdigitalott.com/media/DiscoveryTVHD.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment", Discovery HD World JTV
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd3/Discovery_HD_World_HLS/Discovery_HD_World.m3u8?jct=xebU3AxuD_I8zzBfGNfBnQ&pxe=1567596008&st=zbACGx1ZS6y_hEEGqGWcSg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="SONY BBC EARTH" tvg-logo="http://smumcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment", BBC Earth HD Hindi JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Infotainment", History18 Hindi HD JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_18_Hindi/History_18_Hindi_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Infotainment", History 18 HD JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_HD/History_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Food Food" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Infotainment", Food Food JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Food_Food/Food_Food_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="NDTV GOOD TIMES" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="Infotainment", Good Times Hindi JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_Good_Times/NDTV_Good_Times_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Travelxp" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment", Travel XP HD Hindi JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Travel_XP/Travel_XP_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment", Discovery Science JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Science/Discovery_Science_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Infotainment", Discovery Turbo JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Turbo/Discovery_Turbo_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Infotainment", TLC Hindi JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_Hindi/TLC_Hindi_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://d3ejb73pptsk07.cloudfront.net/upload/AnimalPlanetHindi.png" group-title="Infotainment", Animal Planet Hindi JTV
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Animal_Planet_Hindi/Animal_Planet_Hindi_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet.png" group-title="Infotainment", HD Animal Planet HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_HD/Animal_Planet_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Infotainment", Jio Events HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Events/Jio_Events_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Infotainment", Jio Exclusive HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Living Foodz HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/FYI_TV18.png" group-title="Infotainment", FYI TV 18 HD JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV18/FYI_TV18_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagecdn.googleapis.store/SwiftPanel/images/27689_starsports1hindi.jpg" group-title="Sports", Star Sports 1 Hindi HD
+http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://sgdccdnems03.cdnsrv.jio.com/gdcsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="Sports", Star Sports Select 1 HD
+http://89.38.97.48:8080/TV1524
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://sgdccdnems03.cdnsrv.jio.com/gdcsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Sports", Star Sports Select 2 HD
+http://89.38.97.48:8080/TV1525
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony Ten2 HD JTV
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Ten2_HD/Ten2_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="SONY TEN" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports", Ten 3 HD JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="SONY TEN" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports", Ten 3 JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_3/Ten_3_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Six HD JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Six_HD/Six_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="DD Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_ESPN_HD.png" group-title="Sports", ESPN  HD JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_ESPN_HD/Sony_ESPN_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="DD Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports JTV
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_Sports/DD_Sports_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="MTV Beats HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Hindi Music", MTV Beats HD JTV
+http://ngprsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="ZOOM" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="Hindi Music", ZOOM JTV
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/ZOOM/ZOOM_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="MTV HD+" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Hindi Music", MTV HD+ JTV
+http://ngprsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_HD_Plus/MTV_HD_Plus_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Hindi Music", MTV JTV
+http://ngprsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV/MTV_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="ZING" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Hindi Music", Zing HD JTV
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Zing/Zing_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Z ETC Bollywood" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png" group-title="Hindi Music", Zee ETC Bollywood JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/etc/etc_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="SONY MIX" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png" group-title="Hindi Music", Sony Mix JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="9XM" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Hindi Music", 9XM JTV
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/9XM/9XM_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="9X Jalwa" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_578/PORTRAIT/4a9d4053-fa52-4d71-a8d3-a05d19c5a711.jpg" group-title="Hindi Music", 9X Jalwa JTV
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/9X_Jalwa/9X_Jalwa_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="E24" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Hindi Music", E24 JTV
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/E_24/E_24_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/17.jpg" group-title="Hindi Music", Nazrana (Ghazals)
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="English Channels", &Flix HD
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="English Channels", Star Movies HD
+http://jprdigitalott.com/media/StarMoviesHD.mpd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="English Channels", HBO HD JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Channels", Sony Pix HD JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://imagecdn.googleapis.store/SwiftPanel/images/18034_51124_andprive.jpg" group-title="English Channels", &Prive HD
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="English Channels", Movies Now HD JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Channels", MNX HD JTV
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" group-title="English Channels", MN+ HD JTV
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/MNPLUS/MNPLUS_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="English Channels", WB JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/WB/WB_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="noimage.png" group-title="English Channels", Zee World
+http://pockettv.xyz/api/zee.m3u8?c=world
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English Channels", Colors Infinity HD JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="English Channels", Romedy Now HD JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="English Channels", Zee Cafe HD
+http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AXN_HD.png" group-title="English Channels", AXN HD JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AXN_HD/AXN_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="English Channels", Comedy Central HD JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Comedy_Central_HD/Comedy_Central_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Devotional", Sanskar
+http://pockettv.xyz/api/zee.m3u8?c=sanskartv
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Devotional", SaiTV JTV HQ
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/SaiTV/SaiTV_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Devotional", Satsang TV JTV HQ
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Satsang_TV/Satsang_TV_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Devotional", Sanskar JTV HQ
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sanskar/Sanskar_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Devotional", $ Yoga TV Swamiji
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids", Nickelodeon
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Nickelodeon/Nickelodeon_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids", Nickelodeon Jr
+http://smumcdnems03.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Nickelodeon_Jr/Nickelodeon_Jr_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids", Nick Junior
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Junior/Nick_Junior_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick Hindi
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network Hindi
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Yay Hindi
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Yay_Hindi/Sony_Yay_Hindi_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic Hindi
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids", $ Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Worldwide", Zee Cinema US
+http://pockettv.xyz/api/zee.m3u8?c=cinemausa
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Worldwide", Zee Cinema UK
+http://pockettv.xyz/api/zee.m3u8?c=cinemauk
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Worldwide", Zee TV SD US
+http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Worldwide", Zee TV UK
+http://pockettv.xyz/api/zee.m3u8?c=ztvuk
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Worldwide", Zee TV MENA
+http://pockettv.xyz/api/zee.m3u8?c=ztvme
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="Worldwide", Zee TV Asia/Pacific
+http://pockettv.xyz/api/zee.m3u8?c=apacsea
+
