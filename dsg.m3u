@@ -317,6 +317,13 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV18/FYI_TV18_600.m3u8?
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagecdn.googleapis.store/SwiftPanel/images/27689_starsports1hindi.jpg" group-title="Sports", Star Sports 1 Hindi HD
 http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagecdn.googleapis.store/SwiftPanel/images/27689_starsports1hindi.jpg" group-title="Sports", Star Sports 1 HD
+
+http://jprdigitalott.com:80/media/StarSports1HD.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagecdn.googleapis.store/SwiftPanel/images/27689_starsports1hindi.jpg" group-title="Sports", Star Sports 1 Hindi HD
+http://jprdigitalott.com/media/StarSports1HindiHD.mpd
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://sgdccdnems03.cdnsrv.jio.com/gdcsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="Sports", Star Sports Select 1 HD
 http://89.38.97.48:8080/TV1524
 
