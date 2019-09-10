@@ -86,8 +86,11 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_Picture
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", And Pictures HD
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="Hindi Movies", Star Gold HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="Hindi Movies", Star Gold
 http://voxtv.dynns.com:8000/movies/movies/191
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="Hindi Movies", Star Gold HD
+http://jprdigitalott.com/media/StarGoldHD.mpd
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="Hindi Movies", Star Gold HS HD
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
