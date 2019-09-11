@@ -143,6 +143,9 @@ http://pockettv.xyz/api/zee.m3u8?c=zmarathihd
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Marathi", Colors Marathi HD JTV
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Marathi", Colors Marathi HD
+http://jprdigitalott.com/media/ColorsMarathiHD.mpd
+
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi", Sony Marathi JTV
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
