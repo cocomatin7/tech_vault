@@ -150,7 +150,7 @@ http://jprdigitalott.com/media/ColorsMarathiHD.mpd
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png" group-title="Marathi", Star Pravah HS
-http://starpravah-i.akamaihd.net/hls/live/569921/starpravah/master_2000.m3u8
+http://jprdigitalott.com/media/StarPravahHD.mpd
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="Marathi", Zee Yuva JTV
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Yuva/Zee_Yuva_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
@@ -236,10 +236,10 @@ http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/India_TV/India
 #EXTINF:-1 tvg-id="India TV" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="Hindi News", India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
 
-#EXTINF:-1 tvg-id="ABP News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Hindi News", CNBC Awaaz JTV
+#EXTINF:-1 tvg-id="CNBC Awaaz" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Hindi News", CNBC Awaaz JTV
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNBC_Awaaz/CNBC_Awaaz_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
-#EXTINF:-1 tvg-id="CNBC Awaaz" tvg-logo="https://banner2.kisspng.com/20180716/sfk/kisspng-cnbc-awaaz-logo-of-nbc-india-television-channel-5b4d283db7fae1.7249822215317832297536.jpg" group-title="Hindi News", CNBC Awaaz
+#EXTINF:-1 tvg-id="ABP News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Hindi News", CNBC Awaaz 
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Zee News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Hindi News", Zee Business JTV
