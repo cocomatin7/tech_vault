@@ -42,7 +42,7 @@ http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8|use
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 #EXTINF:-1 tvg-id="EPIC" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Hindi Entertainment", Epic JTV
-http://www.indmovies.in/jio/Epic_HD/Epic_HD.m3u8
+http://www.indmovies.in/jio/Epic_HD/Epic_HD.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36 ExoPlayer/2.0.2 (Linux;Android 9) ExoPlayerLib/2.10.4"
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Hindi Entertainment", Epic Channel HD
 https://sony247channels.akamaized.net/hls/live/2002594/Epicchannel/master_2128.m3u8
