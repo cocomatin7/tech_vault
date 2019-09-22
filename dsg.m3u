@@ -1,0 +1,565 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SET  HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png/revision/latest/scale-to-width-down/413?cb=20190711114754" group-title="Hindi Entertainment", Sony HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png/revision/latest/scale-to-width-down/413?cb=20190711114754" group-title="Hindi Entertainment", Sony HD
+https://sonypremium.akamaized.net/pristine/hls/live/724563/SONYSETHD/exp=1569213310~acl=%2f*~data=hdntl~hmac=02c191ec0c9627a3e49bf2ea77a1f87d075b304d6c414e06f6bb5e5f1bcbdead/master_900.m3u8
+
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Zee_TV_HD_2017-0.jpg/revision/latest?cb=20180527191914" group-title="Hindi Entertainment", Zee TV HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Zee_TV_HD_2017-0.jpg/revision/latest?cb=20180527191914" group-title="Hindi Entertainment", Zee TV HD
+https://z5ams.akamaized.net/zeetvhd/index.m3u8?hdnts=st=1569126469~exp=1569129469~acl=/*~hmac=e607ab34f65e9eaa7ee96ea78aef14a96106003ae4754da432c89bb40b84c1a7
+
+#EXTINF:-1 tvg-id="Colors HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/colors-hd-plus-1-tv-channel-logo-100x100.jpg" group-title="Hindi Entertainment", Colors HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_1200.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Colors HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/colors-hd-plus-1-tv-channel-logo-100x100.jpg" group-title="Hindi Entertainment", Colors HD
+http://jprdigitalott.com/media/ColorsHD.mpd
+
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/SAB_TV_HD.jpg/revision/latest?cb=20171230104603" group-title="Hindi Entertainment", Sony SAB HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/SAB_TV_HD.jpg/revision/latest?cb=20171230104603" group-title="Hindi Entertainment", Sony SAB HD
+https://sonypremium.akamaized.net/pristine/hls/live/724564/SONYSABHD/exp=1569212949~acl=%2f*~data=hdntl~hmac=422a819b32f2748e4cb5ddece0471b1b79777abc472b885c7a58a260e197d5f1/master_900.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/StarPlus_HD.png/revision/latest/scale-to-width-down/576?cb=20181211060159" group-title="Hindi Entertainment", Star Plus HD JTV
+http://www.indmovies.in/jio/Star_PlusHD/Star_PlusHD.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/StarPlus_HD.png/revision/latest/scale-to-width-down/576?cb=20181211060159" group-title="Hindi Entertainment", Star Plus HD
+http://130.185.150.79:1935/trunk/STAR-PLUS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/StarPlus_HD.png/revision/latest/scale-to-width-down/576?cb=20181211060159" group-title="Hindi Entertainment", Star Plus HS HD
+http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+#EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7b/%26TV_HD.jpg" group-title="Hindi Entertainment", &TV HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_TV_HD/And_TV_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7b/%26TV_HD.jpg" group-title="Hindi Entertainment", &TV HD
+https://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1569127605~exp=1569130605~acl=/*~hmac=eec311cb233f3aa8956faed21ec8a8ad920d06d7a6eba011083640565eb80e98
+
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Star_Bharat_HD_logo.jpg/revision/latest/scale-to-width-down/180?cb=20181120070631" group-title="Hindi Entertainment", Star Bharat HS HD
+http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+#EXTINF:-1 tvg-id="EPIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/Epic_channel_logo1.png" group-title="Hindi Entertainment", Epic JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/Epic_channel_logo1.png" group-title="Hindi Entertainment", Epic Channel HD
+https://sony247channels.akamaized.net/hls/live/2002594/Epicchannel/master_2128.m3u8
+
+#EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Sony_pal.png/revision/latest?cb=20160410100634" group-title="Hindi Entertainment", Sony Pal JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pal/Sony_Pal_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Z Anmol" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Zee-Anmol-Logo.jpg/220px-Zee-Anmol-Logo.jpg" group-title="Hindi Entertainment", Zee Anmol JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Anmol/Zee_Anmol_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/DD_National_2017.png/revision/latest?cb=20190103063745" group-title="Hindi Entertainment", DD National
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_National/DD_National_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Sony_Max_HD.jpg/revision/latest?cb=20180531125955" group-title="Hindi Movies", Sony Max HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Sony_Max_HD.jpg/revision/latest?cb=20180531125955" group-title="Hindi Movies", Sony Max HD
+https://sonypremium.akamaized.net/pristine/hls/live/724564/SONYMAXHD/exp=1569213419~acl=%2f*~data=hdntl~hmac=0f83bc9fbc766678824b9dc88020919f42f1b71106cebf036aa0f898b38eb214/master_900.m3u8
+
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Zee_Cinema_HD_2017-0.jpg/revision/latest?cb=20180625105619" group-title="Hindi Movies", Zee Cinema HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Zee_Cinema_HD_2017-0.jpg/revision/latest?cb=20180625105619" group-title="Hindi Movies", Zee Cinema HD
+http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+
+#EXTINF:-1 tvg-id="And Pictures HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-pictures-hd-logo.jpg" group-title="Hindi Movies", &Pictures HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-pictures-hd-logo.jpg" group-title="Hindi Movies", &Pictures HD
+http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-gold-hd-logo.jpg" group-title="Hindi Movies", Star Gold HD JTV
+http://red.watchtvlive.ml/StarGoldHD.m3u8
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-gold-hd-logo.jpg" group-title="Hindi Movies", Star Gold HS HD
+http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-gold-select-hd-logo.jpg" group-title="Hindi Movies", Star Gold Select HD
+http://www.indmovies.in/jio/Star_Gold_Select_HD/Star_Gold_Select_HD.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/BBO-Classic.jpg" group-title="Hindi Movies", BBO Classic HD
+https://yuppmslusmo.akamaized.net/hls/live/2003941/bboclassic/bboclassic/playlist.m3u8?hdntl=exp=1569211223~acl=/*~data=hdntl~hmac=bea424cb12cd12acc4c02a2142ac4eb6f9e94e7ce1b73e5d1a01900f5a3701c7|user-agent="Mozilla/5.0 (Linux; Android 9.0.1; HTC One_M10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo.jpg" group-title="Hindi Movies", BBO HD
+https://yuppmslusmo.akamaized.net/hls/live/2003942/bbo/bbo/playlist.m3u8?hdntl=exp=1569211223~acl=/*~data=hdntl~hmac=bea424cb12cd12acc4c02a2142ac4eb6f9e94e7ce1b73e5d1a01900f5a3701c7|user-agent="Mozilla/5.0 (Linux; Android 9.0.1; HTC One_M10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/09/shemaroome.png" group-title="Hindi Movies", Bollywood Classics
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dcassetcdn.com/design_img/3291348/55821/55821_18062008_3291348_99505e01_image.jpg" group-title="Hindi Movies", SB HD
+http://jprdigitalott.com/media/HDSB.mpd
+
+#EXTINF:-1 tvg-id="EROSNOW_Hindi_Premium" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png" group-title="Hindi Movies", Jio Bollywood Premium HD
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Jio Bollywood Classic HD
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Bollywood_Classic_HD/Jio_Bollywood_Classic_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Movies OK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movies_ok_in.jpg" group-title="Hindi Movies", Movies OK HS HD
+http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+#EXTINF:-1 tvg-id="SONY  MAX 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Sony_Max_2_Logo.jpg/revision/latest?cb=20180909141417" group-title="Hindi Movies", Sony Max 2 JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_MAX2/Sony_MAX2_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Zee Action" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-action-logo.jpg" group-title="Hindi Movies", Zee Action
+http://pockettv.xyz/api/zee.m3u8?c=action
+
+#EXTINF:-1 tvg-id="Zee Bollywood" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-bollywood-logo.jpg" group-title="Hindi Movies", Zee Bollywood
+http://pockettv.xyz/api/zee.m3u8?c=classic
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-anmol-cinema-logo.jpg" group-title="Hindi Movies", Zee Anmol Cinema JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Anmol_Cinema/Zee_Anmol_Cinema_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagecdn.googleapis.store/SwiftPanel/images/34185_50545_mbcbolly.jpg" group-title="Hindi Movies", MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="Hindi Movies", B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dcassetcdn.com/design_img/3291348/55821/55821_18062008_3291348_99505e01_image.jpg" group-title="Hindi Movies", SB Channel
+http://jprdigitalott.com/media/SBChannel.mpd
+
+#EXTINF:-1 tvg-id="Colors Cineplex" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Colors_Cineplex_Black.jpg/revision/latest?cb=20190303073326" group-title="Hindi Movies", Colors Cineplex JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Enterr10" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/enter-10-tv-channel-logo.jpg" group-title="Hindi Movies", Enterr10 JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Enterr_10/Enterr_10_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/maha-movie-tv-channel-logo.jpg" group-title="Hindi Movies", Maha Movies JTV
+http://sngprecdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maha_Movies/Maha_Movies_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-marathi-logo.jpg" group-title="Marathi", Zee Marathi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Marathi/Zee_Marathi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Zee_Marathi_HD_2017.jpg/revision/latest?cb=20180816104204" group-title="Marathi", Zee Marathi HD
+http://pockettv.xyz/api/zee.m3u8?c=zmarathihd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Colors_Marathi_HD.jpg/revision/latest?cb=20171125151636" group-title="Marathi", Colors Marathi HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD_800.m3u8?jct=GgzlQEqniu90DQkgCT29Aw&pxe=1568877712&st=LpJkQzaYvouHJTuWB7Et9Q|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Colors_Marathi_HD.jpg/revision/latest?cb=20171125151636" group-title="Marathi", Colors Marathi HD
+https://msllive.yuppcdn.net/live/yuppmslukmo/hls/live/2007112/etvmarathipxy/etvmarathipxy/playlist/master.m3u8?hdntl=exp=1569211223~acl=/*~data=hdntl~hmac=bea424cb12cd12acc4c02a2142ac4eb6f9e94e7ce1b73e5d1a01900f5a3701c7|user-agent="Mozilla/5.0 (Linux; Android 9.0.1; HTC One_M10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Sony_Marathi.jpg/revision/latest/scale-to-width-down/150?cb=20190224052428" group-title="Marathi", Sony Marathi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Marathi_SD/Sony_Marathi_SD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/New_Star_Pravah_HD.jpg/revision/latest?cb=20180712132338" group-title="Marathi", Star Pravah HD
+http://red.watchtvlive.ml/StarPravahHD.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/New_Star_Pravah_HD.jpg/revision/latest?cb=20180712132338" group-title="Marathi", Star Pravah HS
+http://starpravah-i.akamaihd.net/hls/live/569921/starpravah/master_2000.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-yuva-logo.jpg" group-title="Marathi", Zee Yuva JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Yuva/Zee_Yuva_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-talkies-logo.jpg" group-title="Marathi", Zee Talkies JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-talkies-hd-logo.jpg" group-title="Marathi", Zee Talkies HD
+http://pockettv.xyz/api/zee.m3u8?c=ztalkieshd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/67/Fakt_Marathi.png/revision/latest?cb=20190523142543" group-title="Marathi", Fakt Marathi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/DD_Sahyadri.png/revision/latest?cb=20190711120832" group-title="Marathi", DD Sahyadri JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Sahayadri/DD_Sahayadri_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://scontent.fbom3-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p64x64/18698365_623295311213831_2748598725516445487_n.jpg?_nc_cat=111&_nc_oc=AQkcd3tfV6-2rhvxBAF5pPz_ucNeK1InKhUjmV3zBQ5pbJMci0Uo1bZ8or3ZVkjrIROow_mzU_c2GOzMgWz0wzK1&_nc_ht=scontent.fbom3-1.fna&oh=7f5016aba500499bcf1ca383b6596eec&oe=5E3555AD" group-title="Marathi", Rangmanch JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rangamanch/Rangamanch_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yupppremiummarathi.png" group-title="Marathi", Yupp Premium Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/yuppclassicsmarathi.png" group-title="Marathi", Yupp Classic Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/saam_tv.jpg" group-title="Marathi", Saam TV JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/saam_tv.jpg" group-title="Marathi", Saam TV
+http://jprdigitalott.com/media/SaamTV.mpd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/Zee24taas.jpg/revision/latest?cb=20171015222255" group-title="Marathi", Zee 24 Taas JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/News18_Lokmat.jpg/revision/latest/scale-to-width-down/220?cb=20180531124228" group-title="Marathi", News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/ABP_Majha.jpg/revision/latest?cb=20120724011339" group-title="Marathi", ABP Majha JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/ABP_Majha.jpg/revision/latest?cb=20120724011339" group-title="Marathi", ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531-b/abpmajha/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/TV9_Marathi.jpg/revision/latest?cb=20190303125629" group-title="Marathi", TV9 Maharashtra JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png" group-title="Marathi", BBC Marathi JTV
+http://jiocgehub.jio.ril.com/BBC_Marathi/BBC_Marathi.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/shalini-plus-24x7-news-mkn-live-logo-100x100.jpg" group-title="Marathi", MK News JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MK_News/MK_News_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/9x-jhakaas-music-logo.jpg" group-title="Marathi", 9X Jhakaas JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9x_Jhakaas/9x_Jhakaas_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sangeet-marathi-logo.jpg" group-title="Marathi", Sangeet Marathi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sangeet_Marathi/Sangeet_Marathi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Maiboli_Sabgroup.jpg/revision/latest?cb=20190204160056" group-title="Marathi", Maiboli JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/LordShri_Vitthal.png" group-title="Marathi", Lord Shree Vitthal
+http://smumcdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/LordShri_Vitthal/LordShri_Vitthal.m3u8?jct=Pubw5d7zi338hjl7dS6yHw&pxe=1567602744&st=zbACGx1ZS6y_hEEGqGWcSg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Siddhivinayak.png" group-title="Marathi", Siddhivinayak
+http://jiocgwhub.jio.ril.com/Siddhivinayak/Siddhivinayak.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dagdusheth_Pune.png" group-title="Marathi", Dagadusheth Pune
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Dagdusheth_Pune/Dagdusheth_Pune.m3u8?jct=7G-6n4fyjOLBsaTvvzL4xg&pxe=1567602751&st=zbACGx1ZS6y_hEEGqGWcSg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="ABP News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/ABPNews_2016.jpg/revision/latest?cb=20170818145530" group-title="Hindi News", ABP News JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_News_India/ABP_News_India_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="ABP News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/ABPNews_2016.jpg" group-title="Hindi News", ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-id="Zee News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/18/Zeenews2017.jpg/revision/latest?cb=20171015221912" group-title="Hindi News", Zee News JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_News/Zee_News_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Zee News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/18/Zeenews2017.jpg/revision/latest?cb=20171015221912" group-title="Hindi News", Zee News
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
+
+#EXTINF:-1 tvg-id="Aaj Tak" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/aaj_tak.jpg" group-title="Hindi News", AajTak JTV
+http://sngprecdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Aaj Tak HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg/revision/latest?cb=20181215041109" group-title="Hindi News", AajTak HD
+http://jprdigitalott.com/media/AajTakHD.mpd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ndtv_india.jpg" group-title="Hindi News", NDTV INDIA JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_India/NDTV_India_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="India TV" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/india-tv-channel-logo.jpg" group-title="Hindi News", India TV JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/India_TV/India_TV_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="News 18 India" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/news-18-india-logo.jpg" group-title="Hindi News", News 18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="CNBC Awaaz" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cnbc_awaaz.jpg" group-title="Hindi News", CNBC Awaaz JTV
+http://sngprecdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNBC_Awaaz/CNBC_Awaaz_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="ABP News" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cnbc_awaaz.jpg" group-title="Hindi News", CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Zee News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/Zeebusiness2017.jpg/revision/latest?cb=20171015221758" group-title="Hindi News", Zee Business JTV
+http://sngprecdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Business/Zee_Business_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Zee Business" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/Zeebusiness2017.jpg/revision/latest?cb=20171015221758" group-title="Hindi News", Zee Business
+http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599025s.png" group-title="Hindi News", Tez News
+https://sony247channels.akamaized.net/hls/live/2002594/AAJTAKTEZ/master_2128.m3u8
+
+#EXTINF:-1 tvg-id="Loksabha TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Lok_Sabha_TV.jpg/revision/latest?cb=20180603164903" group-title="Hindi News", Lok Sabha JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Loksabha_TV/Loksabha_TV_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/Current_ddn.png/revision/latest?cb=20160728162415" group-title="Hindi News", DD News
+http://sngprecdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_News/DD_News_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_in.jpg" group-title="Infotainment", Discovery Hindi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Hindi/Discovery_Channel_Hindi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_in.jpg" group-title="Infotainment", Discovery Hindi HD
+http://jprdigitalott.com/media/DiscoveryTVHD.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_hd_world_ne_asia.jpg" group-title="Infotainment", Discovery HD World JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_HD_World/Discovery_HD_World_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="SONY BBC EARTH" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-bbc-earth-hd-logo.jpg" group-title="Infotainment", BBC Earth HD Hindi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.francescocattutophotographer.com/wp-content/uploads/2016/07/National-Geographic-logo-j.jpg" group-title="Infotainment", National Geographic Hindi
+http://jprdigitalott.com/media/NationalGeographic.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_us_hd.jpg" group-title="Infotainment", Nat Geo Wild HD
+http://jprdigitalott.com/media/NGCWildHD.mpd
+
+#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_tv18_hd.jpg" group-title="Infotainment", History18 Hindi HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_18_Hindi/History_18_Hindi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Food Food" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Food_Food.jpg/revision/latest/scale-to-width-down/320?cb=20190307145714" group-title="Infotainment", Food Food
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-living-foodz-logo.jpg" group-title="Infotainment", Living Foodz
+https://z5ams.akamaized.net/livingfoodz/index.m3u8?hdnts=st=1569127605~exp=1569130605~acl=/*~hmac=eec311cb233f3aa8956faed21ec8a8ad920d06d7a6eba011083640565eb80e98
+
+#EXTINF:-1 tvg-id="NDTV GOOD TIMES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Good_Times_Logo.jpg/revision/latest/scale-to-width-down/300?cb=20190104185040" group-title="Infotainment", Good Times Hindi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_Good_Times/NDTV_Good_Times_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Good_Times_Logo.jpg/revision/latest/scale-to-width-down/300?cb=20190104185040" group-title="Infotainment", Good Times
+http://jprdigitalott.com/media/NDTVGoodTimes.mpd
+
+#EXTINF:-1 tvg-id="Travelxp" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/TravelXP_HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105185909" group-title="Infotainment", Travel XP HD Hindi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Travel_XP/Travel_XP_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/discovery-science-logo.jpg" group-title="Infotainment", Discovery Science JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Science/Discovery_Science_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/discovery-turbo-logo.jpg" group-title="Infotainment", Discovery Turbo JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Turbo/Discovery_Turbo_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/TLC_HD_World.jpg/revision/latest/scale-to-width-down/280?cb=20190101073413" group-title="Infotainment", TLC Hindi HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_Hindi/TLC_Hindi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/animal-planet-logo.jpg" group-title="Infotainment", Animal Planet Hindi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png" group-title="Infotainment", HD Animal Planet HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_HD/Animal_Planet_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Living Foodz HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/fyi-tv18-hd-logo.jpg" group-title="Infotainment", FYI TV 18 HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV18/FYI_TV18_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Infotainment", Jio Events HD
+http://gdcsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Events/Jio_Events_600.m3u8?jct=OGjUZrLBLDplshtI1h0j2w&pxe=1568399107&st=05qJL2DEfVninbcWpenIHQ|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Infotainment", Jio Exclusive HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Exclusive/Jio_Exclusive_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-1-hd-hindi-logo.jpg" group-title="Sports", Star Sports Hindi HD HS
+http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindiwv/master.mpd?hdnea=st=1568533506~exp=1568537106~acl=/*~hmac=40f7dcb1c106ab5ca9b1156d94ea3683ab8bceb69a4e43e49af89f4e0a8d539b
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Star Sports 1 HD Hindi 4K
+http://144.217.70.223:8080/StarSports_Hd1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.facebook.com/jiocricketofficial/photos/a.358027221699833/358027148366507/?type=3&source=44&ref=py_c" group-title="Sports", Jio Cricket HD
+http://smumcdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd1/Jio_Cricket_HLS/Jio_Cricket.m3u8?jct=mRC2Hqo6pNF-bdT-8qAiyA&pxe=1569062465&st=05qJL2DEfVninbcWpenIHQ|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png" group-title="Sports", Jio Cricket HD Hindi
+http://smumcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd1/Jio_Cricket_Hindi_HLS/Jio_Cricket_Hindi.m3u8?jct=6pVhfn3ulImFlZTa4Z0YyA&pxe=1569062482&st=05qJL2DEfVninbcWpenIHQ|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-1-hd-hindi-logo.jpg" group-title="Sports", Star Sports HD 1 HINDI JTV
+http://www.indmovies.in/jio/StarSportsHD1Hindi.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-1-logo.jpg" group-title="Sports", Star Sports 1 HD
+http://tv.b4ucast.me/tv/mKnjOGQLkI20180322/chunklist_w2145678726_tkaGxzZW5kdGltZT0xNTY5MTU1NjQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9SFVJNEpyOW1oa2oyTkdBZG9pZDVGWnVrMU50TWVIV0xIeWhLVUh2U05PZz0=.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-2-logo.jpg" group-title="Sports", StarSports 2 HD
+http://23.237.4.162:8080/StarSports_Hd1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-select-hd-1-logo.jpg" group-title="Sports", Star Sports Select HD1
+http://www.indmovies.in/jio/StarSportsSelectHD1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-select-hd-2-logo.jpg" group-title="Sports", Star Sports Select HD2
+http://www.indmovies.in/jio/StarSportsSelectHD2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_First.png" group-title="Sports", Star Sports First
+http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-ten-1-hd-logo.jpg" group-title="Sports", Sony Ten 1 HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony Ten2 HD JTV
+http://www.indmovies.in/jio/Ten2_HD/Ten2_HD.m3u8
+
+#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports", Ten 3 HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="SONY TEN" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports", Ten 3 JTV
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_3/Ten_3_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Six HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Six_HD/Six_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Sony ESPN" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_ESPN_HD.png" group-title="Sports", ESPN  HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_ESPN_HD/Sony_ESPN_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="DD Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Sports/DD_Sports_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="MTV Beats HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-mtv-beats-hd-logo.jpg" group-title="Hindi Music", MTV Beats HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-mtv-beats-hd-logo.jpg" group-title="Hindi Music", MTV Beats HD
+http://jprdigitalott.com/media/MTVBeatsHD.mpd
+
+#EXTINF:-1 tvg-id="MTV HD+" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Hindi Music", MTV HD+ JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV_HD_Plus/MTV_HD_Plus_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Hindi Music", MTV Plus HD
+http://jprdigitalott.com/media/MTVHD.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Hindi Music", MTV JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/b4u-music-logo.jpg" group-title="Hindi Music", B4U Music JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/B4U_Music/B4U_Music_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="ZOOM" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zoom-logo.jpg" group-title="Hindi Music", ZOOM JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ZOOM/ZOOM_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="ZING" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/79/Zing_Logo_Tagline.jpg/revision/latest?cb=20180816103407" group-title="Hindi Music", Zing HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zing/Zing_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Z ETC Bollywood" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-etc-logo.jpg" group-title="Hindi Music", Zee ETC Bollywood JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/etc/etc_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="SONY MIX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Sony_Mix.jpg/revision/latest?cb=20180711072124" group-title="Hindi Music", Sony Mix JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="9XM" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/9x_music.jpg" group-title="Hindi Music", 9XM JTV
+http://sngprecdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9XM/9XM_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="E24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e24_in.jpg" group-title="Hindi Music", E24 JTV
+http://sngprecdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/E_24/E_24_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/17.jpg" group-title="Hindi Music", Nazrana (Ghazals)
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-movies-hd-logo.jpg" group-title="English Channels", Star Movies HD JTV
+http://www.indmovies.in/jio/Star_Movies_HD/Star_Movies_HD.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-movies-hd-logo.jpg" group-title="English Channels", Star Movies HD IN
+http://jprdigitalott.com/media/StarMoviesHD.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-movies-hd-logo.jpg" group-title="English Channels", Star Movies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-movies-select-hd-logo.jpg" group-title="English Channels", Star Movies Select HD
+http://jprdigitalott.com/media/StarMoviesSelectHD.mpd
+
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-pix-hd-logo.jpg" group-title="English Channels", Sony Pix HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-pix-hd-logo.jpg" group-title="English Channels", Sony Pix HD
+https://sonypremium.akamaized.net/pristine/hls/live/724563/SONYPIXHD/exp=1569213325~acl=%2f*~data=hdntl~hmac=322f196c3269ca82f527751f9b3784c8069877b8a314c650e08e2311265267b7/master_900.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_asia_hd.jpg" group-title="English Channels", HBO HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_asia_hd.jpg" group-title="English Channels", HBO HD
+http://jprdigitalott.com/media/HBOHD.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-flix-hd-logo.jpg" group-title="English Channels", &Flix HD
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://imagecdn.googleapis.store/SwiftPanel/images/18034_51124_andprive.jpg" group-title="English Channels", &Prive HD
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movies_now_hd.jpg" group-title="English Channels", Movies Now HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/mn-plus-hd-tv-channel-logo-100x100.jpg" group-title="English Channels", MN+ HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MNPLUS/MNPLUS_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/times-mnx-hd-logo.jpg" group-title="English Channels", MNX HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/turner-wb-logo.jpg" group-title="English Channels", WB JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/WB/WB_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-infinity-hd-logo.jpg" group-title="English Channels", Colors Infinity HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/times-romedy-now-hd-logo.jpg" group-title="English Channels", Romedy Now HD JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-cafe-hd-logo.jpg" group-title="English Channels", Zee Cafe HD
+http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-axn-hd-logo.jpg" group-title="English Channels", AXN HD JTV
+http://sngprecdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AXN_HD/AXN_HD_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/aastha-channel-logo.jpg" group-title="Devotional", Aastha JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aastha/Aastha_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sanskar-tv-channel-logo.jpg" group-title="Devotional", Sanskar
+http://pockettv.xyz/api/zee.m3u8?c=sanskartv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sadhna-national-logo-100x100.jpg" group-title="Devotional", Sadhna JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sadhna/Sadhna_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/satsang-tv-channel-logo.jpg" group-title="Devotional", Satsang JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Satsang_TV/Satsang_TV_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sanskar-tv-channel-logo.jpg" group-title="Devotional", Sanskar JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sanskar/Sanskar_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_in.jpg" group-title="Kids", Disney XD
+http://jprdigitalott.com/media/DisneyXD.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://51.15.209.90:8800/data/img/files/21285_hungama.jpg" group-title="Kids", Hungama
+http://jprdigitalott.com/media/Hungama.mpd
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids", Nickelodeon
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nickelodeon/Nickelodeon_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids", Nickelodeon Jr
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids", Nick Junior
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Junior/Nick_Junior_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick Hindi
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_in.jpg" group-title="Kids", Cartoon Network Hindi
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Yay Hindi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic Hindi JTV
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_800.m3u8|user-agent="Mozilla/5.0 (Mobile; LYF/F120B/LYF-F120B-001-02-16-080419;Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://retohercules.com/files/images/images600_/nick-logo-png.png" group-title="Kids", Nick+HD
+http://jprdigitalott.com/media/Nic+HD.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.soyacincau.com/wp-content/uploads/2019/08/20190804-AppleTV-Square-avengers.png" group-title="VOD", Avengers Endgame
+http://www.indmovies.in/data/Downloads/Hollywood/files/Avengers%20Endgame%202019.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://extraimage.net/images/2019/09/11/49fcf7cd6907e60f67ba0bf20a595a16.jpg" group-title="VOD", Spider Man Far From Home Hindi
+http://www.indmovies.in/data/Downloads/Hollywood/files/Spider-Man%20Far%20from%20Home%202019.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img1.hotstar.com/image/upload/f_auto,t_web_vl_1x/sources/r1/cms/prod/5674/555674-v.jpg" group-title="VOD", Chandrayaan 2
+https://hses1.akamaized.net/videos/movies/hindi/chandrayaan2thelanding/1260010068/1567922109566/111d6eb8bc568af4a76639d9d32d31f4/master.m3u8?hdnea=st=1569051358~exp=1569054958~acl=/*~hmac=7c4a5e39d6c46d32badc354be4130c87163718283780e172eec33cdc1f060238|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img1.hotstar.com/image/upload/f_auto,t_web_vl_1x/sources/r1/cms/prod/3808/533808-v.jpg" group-title="VOD", Mangalyaan
+https://hses.akamaized.net/videos/hotstarint/inunl/3/1770004647/1770004647/1770005017/1560854320344/265b9dab22d4e9a033e6df6f89639f17/master.m3u8?hdnea=st=1569051544~exp=1569055144~acl=/*~hmac=4f904edfd9726b6e8ae5495c948b7d9cedc23c8edf978f9d30d4cca2074d3cf7|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://extraimage.net/images/2019/05/13/a1e761f3c41df054ef10f4c381c2644c.jpg" group-title="VOD", Kabir Singh
+https://redflixvod.akamaicdn.xyz/drive//hls/b88d210ffc3c1aa59cd073d9587ee403/b88d210ffc3c1aa59cd073d9587ee403.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://extraimage.net/images/2019/09/11/49fcf7cd6907e60f67ba0bf20a595a16.jpg" group-title="VOD", Spider Man Far from Home
+https://redflixvod.akamaicdn.xyz/drive//hls/ea07d71f7be35e482a3ba0e735d27520/ea07d71f7be35e482a3ba0e735d27520.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VOD", Fast And Furious Hobs and Shaw
+https://redflixvod.akamaicdn.xyz/hls/443334fd518442fd6a95af2581aa41ed/443334fd518442fd6a95af2581aa41ed.playlist.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="VOD", Article 15
+http://www.indmovies.in/data/Downloads/Bollywood/files/Article%2015.mkv
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://extraimage.net/images/2019/04/22/036d3909f2f7dd2eb99e2032f44000a2.jpg" group-title="VOD", Bharat
+http://www.indmovies.in/data/Downloads/Bollywood/files/Bharat.mkv
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="noimage.png" group-title="VOD", Kesari
+http://www.indmovies.in/data/Downloads/Bollywood/files/Kesari.mkv
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="VOD", Kabir Singh
+http://www.indmovies.in/data/Downloads/Bollywood/files/Kabir%20Singh%202019.mkv
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="VOD", Student Of The Year 2
+http://www.indmovies.in/data/Downloads/Bollywood/files/Student%20of%20the%20Year%202.mkv
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="logo N/A" group-title="VOD", Super 30
+http://www.indmovies.in/data/Downloads/Bollywood/files/Super%2030%202019%20.mkv
+
