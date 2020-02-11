@@ -96,7 +96,7 @@ http://jiocgwhub.jio.ril.com/Siddhivinayak/Siddhivinayak.m3u8
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="Hindi Entertainment", Sony HD
-https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_720/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2009800/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment", Zee TV SD
 https://streamer-1.toffeelive.com/live/Zee_TV_720/index.m3u8
@@ -150,7 +150,7 @@ http://tvboxserver.raam.pw:2082/senna/senna/20849
 http://tvboxserver.raam.pw:2082/senna/senna/20885
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/Lad3I4Yq.png" group-title="Hindi Movies", Sony Max HD
-https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2009802/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/VumdLpRP.png" group-title="Hindi Movies", Star Gold HD HS
 http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_1200.m3u8|user-agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
