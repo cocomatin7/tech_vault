@@ -144,7 +144,6 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/59108
 http://savetree123.cf/index.php/live/channels/Sony_Pal_800.m3u8|user-agent="plaYtv/5.9.2 (Linux;Android 6.0) ExoPlayerLib/2.8.0"
 
 #EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/sjM1MbFR.png" group-title="Hindi Movies", Zee Cinema HD
-http://tvboxserver.raam.pw:2082/senna/senna/20849
 
 #EXTINF:-1 tvg-id="And Pictures HD" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/288dmSbW.png" group-title="Hindi Movies", &Pictures HD
 http://tvboxserver.raam.pw:2082/senna/senna/20885
@@ -378,19 +377,19 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/lipOYomn.png" group-title="English Channels", Movies Now HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49562 
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://www.kcltv.com/software/images/uploads/MN+_HD.jpg" group-title="English Channels", MN+ HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49560
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/U53E5FiH.png" group-title="English Channels", MNX HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49561
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/lFNVZVBP.png" group-title="English Channels", Colors Infinity HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49549
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/AK2e9c3P.png" group-title="English Channels", Romedy Now HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49568
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/b3rOycoF.png" group-title="English Channels", Zee Cafe HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49582
