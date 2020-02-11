@@ -143,7 +143,7 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/59108
 #EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/6_155.png" group-title="Hindi Entertainment", Sony Pal
 http://savetree123.cf/index.php/live/channels/Sony_Pal_800.m3u8|user-agent="plaYtv/5.9.2 (Linux;Android 6.0) ExoPlayerLib/2.8.0"
 
-#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/sjM1MbFR.png" group-title="Hindi Movies", Zee Cinema HD
+
 
 #EXTINF:-1 tvg-id="And Pictures HD" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/288dmSbW.png" group-title="Hindi Movies", &Pictures HD
 http://tvboxserver.raam.pw:2082/senna/senna/20885
